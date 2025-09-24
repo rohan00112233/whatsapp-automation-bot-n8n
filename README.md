@@ -36,6 +36,5 @@ The bot takes orders, validates them against inventory, saves them in a database
 - Saved time for restaurant/tiffin owners ⏳  
 - 24/7 automated customer service 🚀  
 
-## 📸 Demo
-(Insert screenshots of WhatsApp bot conversation here)  
-(Optionally link a YouTube demo video)
+
+
